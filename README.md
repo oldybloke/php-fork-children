@@ -1,2 +1,2 @@
 # php-fork-children
-Simple php script to spawn children to work with MySQL database
+Simple php script to spawn children and work with MySQL databases
